@@ -1,0 +1,6 @@
+{
+  "name": "AI Career Planner",
+  "description": "An AI career planner that analyzes your skills, experience, and interests to generate personalized, step-by-step career path roadmaps with an interactive smooth-scrolling assistant chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
